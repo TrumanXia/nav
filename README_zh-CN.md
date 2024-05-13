@@ -86,6 +86,8 @@
 ### 推荐方式二(Vercel免费)
 和方式一的步骤一样，除了第4步不用。
 
+在链接里加 #sysyem, 比如 https://www.example.com/#/system, 输入你的 token 就行。
+
 具体使用跟着步骤走即可 [https://github.com/apps/vercel](https://github.com/apps/vercel)
 
 
